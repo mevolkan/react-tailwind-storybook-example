@@ -74,3 +74,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - Make dynamic and configurable elements
 - Add Contentful backend
 - Do Tests 
+
+## Get components from here
+[https://tailwind-elements.com/docs/standard/components/accordion/](https://tailwind-elements.com/docs/standard/components/accordion/)
