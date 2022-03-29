@@ -2,6 +2,7 @@ import CallToAction from './components/CallToAction'
 import Hero from './components/Hero'
 import Feature from './components/Feature'
 import Form from './components/Form'
+import Footer from './components/Footer'
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Feature />
       <CallToAction />
       <Form />
+      <Footer />
     </div>
   );
 }
